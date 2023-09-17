@@ -31,7 +31,7 @@ _Obs*: Outras funcionalidades  implementadas serão dispostas aqui futuramente_
 - Clone este repositório dentro da pasta `C:\xampp\htdocs`
 - Abra o xampp e dê start no Apache e Mysql
 - Abra o browser e digite localhost + o nome pasta que baixou:
-  - Ex: `localhost/barber_shopWeb-master/`
+  - Ex: `localhost/empreendimento/`
 
 
 
